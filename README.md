@@ -40,7 +40,7 @@ Original Bitcoin White Paper
 ### Ethereum Accounts
 
 Account in Ethereum Network
-- Account Addess (like an email or username)
+- Account Address (like an email or username)
 - Public Key 
 - Private Key 
 
